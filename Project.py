@@ -96,7 +96,6 @@ def bhim_upi_payment():
 
 
 # Function for Credit Card Payment
-# Function for Credit Card Payment
 def credit_card_payment():
     global balance
     amount = float(input("Enter payment amount in INR: ₹"))
