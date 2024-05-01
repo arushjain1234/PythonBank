@@ -14,4 +14,4 @@ Instruction:
 These were all of the instruction, 
 now a very pleasant Thanks to you!
 
-X_____________________________________________________________________END______________________________________________________________________X
+X___END___X
